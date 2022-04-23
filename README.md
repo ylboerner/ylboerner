@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm mostly working on FHIR projects currently. My focus is on C# backend applications, but I like to code in Swift and dabble in React as well. 
+I'm mostly working on FHIR projects currently. My focus is on C# backend applications, but I like to code in Swift and Java as well.
 
 <!--
 **ylboerner/ylboerner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
